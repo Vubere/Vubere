@@ -10,7 +10,7 @@ I'm a Software Engineer - Front End Engineer - who currently self teaches and is
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, TypeScript and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer(Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front End Engineer(Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing victorubere@gmail.com.
 
 ---
