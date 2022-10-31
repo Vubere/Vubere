@@ -8,7 +8,7 @@ I'm a Front End Web Developer who currently self teaches and is also an  AltScho
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, TypeScript and Reactjs.
+- 🌱 My tech stack consist of Reactjs, TypeScript, Redux, SASS, CSS and HTML5.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front End Engineer(Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing victorubere@gmail.com.
